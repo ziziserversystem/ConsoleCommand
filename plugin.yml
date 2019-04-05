@@ -1,0 +1,12 @@
+---
+name: ConsoleCommand
+main: ConsoleCommand\main
+version: 1.0.0
+api: 3.0.0
+author: まっちだよ～(｡･ω･｡)
+
+commands:
+  cc:
+    description: §8<OP> Consoleからコマンドを実行
+    usege: /cc
+...
